@@ -158,26 +158,31 @@ tbody tr:hover {
   color: #f3f3f3;
   text-align: center;
   box-shadow: 0 5px 10px #000;
+  font-size: 100%;
 }
 
 .card .back .link {
   border-top: solid 1px #f3f3f3;
   height: 50px;
   line-height: 50px;
+  font-size: 100%;
 }
 
 .card .back .link a {
   color: #f3f3f3;
+  font-size: 60%;
 }
 
 .card .back h3 {
   font-size: auto;
   margin-top: 20px;
   letter-spacing: 2px;
+  font-size: 60%;
 }
 
 .card .back p {
   letter-spacing: 1px;
+  font-size: 100%;
 } 
 
 .card:hover .front {
